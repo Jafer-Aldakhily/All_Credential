@@ -1,0 +1,21 @@
+Facebook:
+uasername : jaferaldkly@facebook.com
+password : jafer34
+
+Gmail:
+username : jaferaldkly@gmail.com
+password : jaf0167829
+
+Github: 
+username : jaferaldkly@gmail.com
+password : Jafer10Jafer10
+
+Mailtrap:
+username : jaferaldkly@gmail.com
+password : jaf0167829
+
+paypal :
+username : jaferaldkly@gmail.com
+password : jaf0167829
+
+
