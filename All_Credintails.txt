@@ -18,4 +18,12 @@ paypal :
 username : jaferaldkly@gmail.com
 password : jaf0167829
 
+LinkedIn :
+username : jaferaldakhily@yahoo.com
+password : jaf0167829
+
+OrangeMoney :
+username : 0779627573
+password : Ja@12345
+
 
