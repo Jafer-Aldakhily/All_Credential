@@ -1,10 +1,18 @@
 Facebook:
 uasername : jaferaldkly@facebook.com
-password : jafer34
+password : JaferJafer1997
 
 Gmail:
 username : jaferaldkly@gmail.com
+password : jafer_jaf_0167829
+
+LinkedIn :
+username : jaferaldakhily@yahoo.com
 password : jaf0167829
+
+Yahoo : => (addtion account to retrive gmail account)
+username : jaferaldkly@yahoo.com
+password : jafer_jaf_0167829
 
 Github: 
 username : jaferaldkly@gmail.com
@@ -18,12 +26,17 @@ paypal :
 username : jaferaldkly@gmail.com
 password : jaf0167829
 
-LinkedIn :
-username : jaferaldakhily@yahoo.com
-password : jaf0167829
 
-OrangeMoney :
-username : 0779627573
-password : Ja@12345
+Mailchimp:
+email: jaferaldkly@gmail.com
+username : jafer1020
+password : Jaf_0167829
+
+
+OrageCodingAcademy:
+EmailAdress : jaferaldkly@gmail.com	
+password : Jafer10Jafer10
+
+
 
 
